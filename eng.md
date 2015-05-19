@@ -1,3 +1,5 @@
+# Building the Value Web with Open Standards
+
 ![The Value Web][1]
 
 Today’s payment networks are disconnected and far from interoperable. We can
